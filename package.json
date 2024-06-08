@@ -11,7 +11,7 @@
     "predeploy": "vite build", 
     "deploy": "gh-pages -d dist" 
   },
-  "homepage": "https://yourusername.github.io/protfolio", 
+  "homepage": "https://sandaru-dharmapriya.github.io/Portfolio-New", 
   "dependencies": {
     "@fontsource/outfit": "^5.0.12",
     "@fontsource/roboto": "^5.0.12",
