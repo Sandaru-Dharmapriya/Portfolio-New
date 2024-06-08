@@ -1,8 +1,4 @@
-{"scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build",
-},
-
+{
   "name": "protfolio",
   "private": true,
   "version": "0.0.0",
@@ -12,10 +8,10 @@
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "predeploy": "vite build", 
-    "deploy": "gh-pages -d dist" 
+    "predeploy": "vite build",
+    "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://sandaru-dharmapriya.github.io/Portfolio-New", 
+  "homepage": "https://sandaru-dharmapriya.github.io/Portfolio-New",
   "dependencies": {
     "@fontsource/outfit": "^5.0.12",
     "@fontsource/roboto": "^5.0.12",
